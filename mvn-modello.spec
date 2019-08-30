@@ -4,7 +4,7 @@
 #
 Name     : mvn-modello
 Version  : 1.9.1
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/codehaus/modello/modello-core/1.9.1/modello-core-1.9.1.jar
 Source0  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-core/1.9.1/modello-core-1.9.1.jar
 Source1  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-core/1.9.1/modello-core-1.9.1.pom

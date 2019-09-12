@@ -4,44 +4,49 @@
 #
 Name     : mvn-modello
 Version  : 1.9.1
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/org/codehaus/modello/modello-core/1.9.1/modello-core-1.9.1.jar
 Source0  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-core/1.9.1/modello-core-1.9.1.jar
 Source1  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-core/1.9.1/modello-core-1.9.1.pom
-Source2  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-maven-plugin/1.9.1/modello-maven-plugin-1.9.1.jar
-Source3  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-maven-plugin/1.9.1/modello-maven-plugin-1.9.1.pom
-Source4  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-converters/1.9.1/modello-plugin-converters-1.9.1.jar
-Source5  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-converters/1.9.1/modello-plugin-converters-1.9.1.pom
-Source6  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-dom4j/1.9.1/modello-plugin-dom4j-1.9.1.jar
-Source7  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-dom4j/1.9.1/modello-plugin-dom4j-1.9.1.pom
-Source8  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-jackson/1.9.1/modello-plugin-jackson-1.9.1.jar
-Source9  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-jackson/1.9.1/modello-plugin-jackson-1.9.1.pom
-Source10  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-java/1.9.1/modello-plugin-java-1.9.1.jar
-Source11  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-java/1.9.1/modello-plugin-java-1.9.1.pom
-Source12  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-jdom/1.9.1/modello-plugin-jdom-1.9.1.jar
-Source13  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-jdom/1.9.1/modello-plugin-jdom-1.9.1.pom
-Source14  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-jsonschema/1.9.1/modello-plugin-jsonschema-1.9.1.jar
-Source15  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-jsonschema/1.9.1/modello-plugin-jsonschema-1.9.1.pom
-Source16  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-sax/1.9.1/modello-plugin-sax-1.9.1.jar
-Source17  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-sax/1.9.1/modello-plugin-sax-1.9.1.pom
-Source18  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-snakeyaml/1.9.1/modello-plugin-snakeyaml-1.9.1.jar
-Source19  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-snakeyaml/1.9.1/modello-plugin-snakeyaml-1.9.1.pom
-Source20  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-stax/1.9.1/modello-plugin-stax-1.9.1.jar
-Source21  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-stax/1.9.1/modello-plugin-stax-1.9.1.pom
-Source22  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xdoc/1.9.1/modello-plugin-xdoc-1.9.1.jar
-Source23  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xdoc/1.9.1/modello-plugin-xdoc-1.9.1.pom
-Source24  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xml/1.9.1/modello-plugin-xml-1.9.1.jar
-Source25  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xml/1.9.1/modello-plugin-xml-1.9.1.pom
-Source26  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xpp3/1.9.1/modello-plugin-xpp3-1.9.1.jar
-Source27  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xpp3/1.9.1/modello-plugin-xpp3-1.9.1.pom
-Source28  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xsd/1.9.1/modello-plugin-xsd-1.9.1.jar
-Source29  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xsd/1.9.1/modello-plugin-xsd-1.9.1.pom
-Source30  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugins/1.9.1/modello-plugins-1.9.1.pom
-Source31  : https://repo1.maven.org/maven2/org/codehaus/modello/modello/1.9.1/modello-1.9.1.pom
+Source2  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-maven-plugin/1.11/modello-maven-plugin-1.11.jar
+Source3  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-maven-plugin/1.11/modello-maven-plugin-1.11.pom
+Source4  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-maven-plugin/1.9.1/modello-maven-plugin-1.9.1.jar
+Source5  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-maven-plugin/1.9.1/modello-maven-plugin-1.9.1.pom
+Source6  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-converters/1.9.1/modello-plugin-converters-1.9.1.jar
+Source7  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-converters/1.9.1/modello-plugin-converters-1.9.1.pom
+Source8  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-dom4j/1.9.1/modello-plugin-dom4j-1.9.1.jar
+Source9  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-dom4j/1.9.1/modello-plugin-dom4j-1.9.1.pom
+Source10  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-jackson/1.9.1/modello-plugin-jackson-1.9.1.jar
+Source11  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-jackson/1.9.1/modello-plugin-jackson-1.9.1.pom
+Source12  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-java/1.9.1/modello-plugin-java-1.9.1.jar
+Source13  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-java/1.9.1/modello-plugin-java-1.9.1.pom
+Source14  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-jdom/1.9.1/modello-plugin-jdom-1.9.1.jar
+Source15  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-jdom/1.9.1/modello-plugin-jdom-1.9.1.pom
+Source16  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-jsonschema/1.9.1/modello-plugin-jsonschema-1.9.1.jar
+Source17  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-jsonschema/1.9.1/modello-plugin-jsonschema-1.9.1.pom
+Source18  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-sax/1.9.1/modello-plugin-sax-1.9.1.jar
+Source19  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-sax/1.9.1/modello-plugin-sax-1.9.1.pom
+Source20  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-snakeyaml/1.9.1/modello-plugin-snakeyaml-1.9.1.jar
+Source21  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-snakeyaml/1.9.1/modello-plugin-snakeyaml-1.9.1.pom
+Source22  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-stax/1.9.1/modello-plugin-stax-1.9.1.jar
+Source23  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-stax/1.9.1/modello-plugin-stax-1.9.1.pom
+Source24  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xdoc/1.9.1/modello-plugin-xdoc-1.9.1.jar
+Source25  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xdoc/1.9.1/modello-plugin-xdoc-1.9.1.pom
+Source26  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xml/1.9.1/modello-plugin-xml-1.9.1.jar
+Source27  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xml/1.9.1/modello-plugin-xml-1.9.1.pom
+Source28  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xpp3/1.9.1/modello-plugin-xpp3-1.9.1.jar
+Source29  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xpp3/1.9.1/modello-plugin-xpp3-1.9.1.pom
+Source30  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xsd/1.9.1/modello-plugin-xsd-1.9.1.jar
+Source31  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugin-xsd/1.9.1/modello-plugin-xsd-1.9.1.pom
+Source32  : https://repo1.maven.org/maven2/org/codehaus/modello/modello-plugins/1.9.1/modello-plugins-1.9.1.pom
+Source33  : https://repo1.maven.org/maven2/org/codehaus/modello/modello/1.11/modello-1.11.pom
+Source34  : https://repo1.maven.org/maven2/org/codehaus/modello/modello/1.9.1/modello-1.9.1.pom
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : Apache-2.0 MIT
 Requires: mvn-modello-data = %{version}-%{release}
+BuildRequires : apache-maven
+BuildRequires : buildreq-mvn
 
 %description
 No detailed description available
@@ -55,105 +60,115 @@ data components for the mvn-modello package.
 
 
 %prep
+%setup -q -n META-INF
 
 %build
 
 %install
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-core/1.9.1
-cp %{SOURCE0} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-core/1.9.1
+cp %{SOURCE0} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-core/1.9.1/modello-core-1.9.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-core/1.9.1
-cp %{SOURCE1} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-core/1.9.1
+cp %{SOURCE1} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-core/1.9.1/modello-core-1.9.1.pom
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-maven-plugin/1.11
+cp %{SOURCE2} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-maven-plugin/1.11/modello-maven-plugin-1.11.jar
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-maven-plugin/1.11
+cp %{SOURCE3} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-maven-plugin/1.11/modello-maven-plugin-1.11.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-maven-plugin/1.9.1
-cp %{SOURCE2} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-maven-plugin/1.9.1
+cp %{SOURCE4} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-maven-plugin/1.9.1/modello-maven-plugin-1.9.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-maven-plugin/1.9.1
-cp %{SOURCE3} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-maven-plugin/1.9.1
+cp %{SOURCE5} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-maven-plugin/1.9.1/modello-maven-plugin-1.9.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-converters/1.9.1
-cp %{SOURCE4} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-converters/1.9.1
+cp %{SOURCE6} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-converters/1.9.1/modello-plugin-converters-1.9.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-converters/1.9.1
-cp %{SOURCE5} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-converters/1.9.1
+cp %{SOURCE7} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-converters/1.9.1/modello-plugin-converters-1.9.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-dom4j/1.9.1
-cp %{SOURCE6} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-dom4j/1.9.1
+cp %{SOURCE8} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-dom4j/1.9.1/modello-plugin-dom4j-1.9.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-dom4j/1.9.1
-cp %{SOURCE7} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-dom4j/1.9.1
+cp %{SOURCE9} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-dom4j/1.9.1/modello-plugin-dom4j-1.9.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jackson/1.9.1
-cp %{SOURCE8} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jackson/1.9.1
+cp %{SOURCE10} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jackson/1.9.1/modello-plugin-jackson-1.9.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jackson/1.9.1
-cp %{SOURCE9} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jackson/1.9.1
+cp %{SOURCE11} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jackson/1.9.1/modello-plugin-jackson-1.9.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-java/1.9.1
-cp %{SOURCE10} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-java/1.9.1
+cp %{SOURCE12} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-java/1.9.1/modello-plugin-java-1.9.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-java/1.9.1
-cp %{SOURCE11} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-java/1.9.1
+cp %{SOURCE13} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-java/1.9.1/modello-plugin-java-1.9.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jdom/1.9.1
-cp %{SOURCE12} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jdom/1.9.1
+cp %{SOURCE14} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jdom/1.9.1/modello-plugin-jdom-1.9.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jdom/1.9.1
-cp %{SOURCE13} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jdom/1.9.1
+cp %{SOURCE15} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jdom/1.9.1/modello-plugin-jdom-1.9.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jsonschema/1.9.1
-cp %{SOURCE14} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jsonschema/1.9.1
+cp %{SOURCE16} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jsonschema/1.9.1/modello-plugin-jsonschema-1.9.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jsonschema/1.9.1
-cp %{SOURCE15} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jsonschema/1.9.1
+cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-jsonschema/1.9.1/modello-plugin-jsonschema-1.9.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-sax/1.9.1
-cp %{SOURCE16} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-sax/1.9.1
+cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-sax/1.9.1/modello-plugin-sax-1.9.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-sax/1.9.1
-cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-sax/1.9.1
+cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-sax/1.9.1/modello-plugin-sax-1.9.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-snakeyaml/1.9.1
-cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-snakeyaml/1.9.1
+cp %{SOURCE20} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-snakeyaml/1.9.1/modello-plugin-snakeyaml-1.9.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-snakeyaml/1.9.1
-cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-snakeyaml/1.9.1
+cp %{SOURCE21} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-snakeyaml/1.9.1/modello-plugin-snakeyaml-1.9.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-stax/1.9.1
-cp %{SOURCE20} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-stax/1.9.1
+cp %{SOURCE22} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-stax/1.9.1/modello-plugin-stax-1.9.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-stax/1.9.1
-cp %{SOURCE21} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-stax/1.9.1
+cp %{SOURCE23} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-stax/1.9.1/modello-plugin-stax-1.9.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xdoc/1.9.1
-cp %{SOURCE22} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xdoc/1.9.1
+cp %{SOURCE24} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xdoc/1.9.1/modello-plugin-xdoc-1.9.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xdoc/1.9.1
-cp %{SOURCE23} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xdoc/1.9.1
+cp %{SOURCE25} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xdoc/1.9.1/modello-plugin-xdoc-1.9.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xml/1.9.1
-cp %{SOURCE24} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xml/1.9.1
+cp %{SOURCE26} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xml/1.9.1/modello-plugin-xml-1.9.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xml/1.9.1
-cp %{SOURCE25} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xml/1.9.1
+cp %{SOURCE27} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xml/1.9.1/modello-plugin-xml-1.9.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xpp3/1.9.1
-cp %{SOURCE26} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xpp3/1.9.1
+cp %{SOURCE28} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xpp3/1.9.1/modello-plugin-xpp3-1.9.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xpp3/1.9.1
-cp %{SOURCE27} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xpp3/1.9.1
+cp %{SOURCE29} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xpp3/1.9.1/modello-plugin-xpp3-1.9.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xsd/1.9.1
-cp %{SOURCE28} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xsd/1.9.1
+cp %{SOURCE30} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xsd/1.9.1/modello-plugin-xsd-1.9.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xsd/1.9.1
-cp %{SOURCE29} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xsd/1.9.1
+cp %{SOURCE31} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xsd/1.9.1/modello-plugin-xsd-1.9.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugins/1.9.1
-cp %{SOURCE30} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugins/1.9.1
+cp %{SOURCE32} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello-plugins/1.9.1/modello-plugins-1.9.1.pom
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello/1.11
+cp %{SOURCE33} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello/1.11/modello-1.11.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello/1.9.1
-cp %{SOURCE31} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello/1.9.1
+cp %{SOURCE34} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/modello/1.9.1/modello-1.9.1.pom
 
 
 %files
@@ -163,6 +178,8 @@ cp %{SOURCE31} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/m
 %defattr(-,root,root,-)
 /usr/share/java/.m2/repository/org/codehaus/modello/modello-core/1.9.1/modello-core-1.9.1.jar
 /usr/share/java/.m2/repository/org/codehaus/modello/modello-core/1.9.1/modello-core-1.9.1.pom
+/usr/share/java/.m2/repository/org/codehaus/modello/modello-maven-plugin/1.11/modello-maven-plugin-1.11.jar
+/usr/share/java/.m2/repository/org/codehaus/modello/modello-maven-plugin/1.11/modello-maven-plugin-1.11.pom
 /usr/share/java/.m2/repository/org/codehaus/modello/modello-maven-plugin/1.9.1/modello-maven-plugin-1.9.1.jar
 /usr/share/java/.m2/repository/org/codehaus/modello/modello-maven-plugin/1.9.1/modello-maven-plugin-1.9.1.pom
 /usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-converters/1.9.1/modello-plugin-converters-1.9.1.jar
@@ -192,4 +209,5 @@ cp %{SOURCE31} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/modello/m
 /usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xsd/1.9.1/modello-plugin-xsd-1.9.1.jar
 /usr/share/java/.m2/repository/org/codehaus/modello/modello-plugin-xsd/1.9.1/modello-plugin-xsd-1.9.1.pom
 /usr/share/java/.m2/repository/org/codehaus/modello/modello-plugins/1.9.1/modello-plugins-1.9.1.pom
+/usr/share/java/.m2/repository/org/codehaus/modello/modello/1.11/modello-1.11.pom
 /usr/share/java/.m2/repository/org/codehaus/modello/modello/1.9.1/modello-1.9.1.pom
